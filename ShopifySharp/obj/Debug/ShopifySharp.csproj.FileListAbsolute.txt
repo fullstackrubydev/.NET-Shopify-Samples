@@ -1,0 +1,1 @@
+E:\ShopifySharp-VS2015\ShopifySharp\obj\Debug\ShopifySharp.csprojResolveAssemblyReference.cache
